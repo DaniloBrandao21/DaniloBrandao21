@@ -1,8 +1,9 @@
 ### Olá! Meu nome é Danilo Brandão 👋
 
 - 🔭 Estagiário em Desenvolvimento Android -> Foursys
-- 📚 Estudando formação em Android
-- 🎓 Análise e desenvolvimento de sistemas -> 3º Semetre -> PUCPR
+- 🔭 Desenvolvedor Jr. fullstack -> Infoline
+- 📚 Estudando formação back-end
+- 🎓 Análise e desenvolvimento de sistemas -> 5º Semetre -> PUCPR
 - 📫 Contate-me no email: danilo.brandao.ufpr@gmail.com
 
 <div align="center">
